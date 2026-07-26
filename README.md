@@ -6,9 +6,20 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=32&duration=3200&pause=1200&color=D0453A&background=00000000&center=true&vCenter=true&width=650&lines=SAYANTANI+ONLINE" alt="Typing SVG" />
+```text
+╭──────────────────────────────────────╮
+│                                        │
+│        S A Y A N T A N I              │
+│              M A T R I X              │
+│                                        │
+│     CODE  /  DESIGN  /  CREATE        │
+│                                        │
+╰──────────────────────────────────────╯
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=15&duration=4000&pause=2000&color=E8A79E&background=00000000&center=true&vCenter=true&width=600&lines=Frontend+Developer+%C2%B7+Creative+Builder;Dark+%C2%B7+Minimal+%C2%B7+Maroon;Building+with+intention+%F0%9F%92%BB%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=26&duration=3000&pause=1200&color=D9A441&background=00000000&center=true&vCenter=true&width=680&lines=SAYANTANI+MATRIX;Frontend+Developer+%7C+Creative+Builder+%7C+Problem+Solver;Squashing+bugs+like+a+debug+ninja+%F0%9F%90%9B;Building+at+the+speed+of+coffee+%E2%98%95" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=20&duration=4000&pause=2000&color=F2D57E&background=00000000&center=true&vCenter=true&width=500&lines=A+universe+of+things+I'm+building." alt="Cursive Typing SVG" />
 
 <br>
 
@@ -47,13 +58,13 @@ Frontend developer who leans into restraint: clean architecture, deliberate moti
 
 🎧 **Music** — usually something lo-fi or indie in the background while working
 ☕ **Fuel** — coffee, without fail
-🌙 **Focus hours** — often late in the evening
+🌻 **Small joy** — sunflowers, quietly one of my favorite things
 
 </div>
 
 <br>
 
-<h2 align="center">🛠️ Sayantani Online — Web Arsenal</h2>
+<h2 align="center">🛠️ Sayantani Matrix — Web Arsenal</h2>
 
 <div align="center">
 
@@ -107,7 +118,7 @@ Frontend developer who leans into restraint: clean architecture, deliberate moti
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sayantaniii&theme=matrix&no-bg=true&no-frame=true&row=1&column=6" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sayantaniii&theme=onedark&no-bg=true&no-frame=true&row=1&column=6" alt="Trophies"/>
 
 </div>
 
@@ -117,10 +128,10 @@ Frontend developer who leans into restraint: clean architecture, deliberate moti
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayantaniii&show_icons=true&theme=transparent&hide_border=true&title_color=D0453A&icon_color=D0453A&text_color=C0C0C0&hide_rank=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayantaniii&theme=transparent&hide_border=true&stroke=8B2E28&ring=D0453A&fire=D0453A&currStreakLabel=C0C0C0&sideLabels=C0C0C0&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=888888" width="48%" alt="Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sayantaniii&show_icons=true&theme=transparent&hide_border=true&title_color=D9A441&icon_color=D9A441&text_color=C0C0C0&hide_rank=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayantaniii&theme=transparent&hide_border=true&stroke=8A6D2F&ring=D9A441&fire=D9A441&currStreakLabel=C0C0C0&sideLabels=C0C0C0&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=888888" width="48%" alt="Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayantaniii&theme=react-dark&hide_border=true&bg_color=00000000&color=D0453A&line=D0453A&point=E8A79E" width="97%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayantaniii&theme=react-dark&hide_border=true&bg_color=00000000&color=D9A441&line=D9A441&point=F2D57E" width="97%" alt="Activity Graph"/>
 
 </div>
 
@@ -130,9 +141,9 @@ Frontend developer who leans into restraint: clean architecture, deliberate moti
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sayantani-chatterjee-43943a361/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D0453A" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/sayantani-chatterjee-43943a361/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D9A441" alt="LinkedIn"/></a>
 <a href="https://instagram.com/tani_biryani"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=C0C0C0" alt="Instagram"/></a>
-<a href="mailto:sayantanichatterjeework@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D0453A" alt="Email"/></a>
+<a href="mailto:sayantanichatterjeework@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D9A441" alt="Email"/></a>
 
 </div>
 
@@ -140,10 +151,10 @@ Frontend developer who leans into restraint: clean architecture, deliberate moti
 
 <div align="center">
 
-`"Precision is the quietest form of confidence."`
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=18&duration=5000&pause=2000&color=F2D57E&background=00000000&center=true&vCenter=true&width=550&lines=Precision+is+the+quietest+form+of+confidence." alt="Cursive Quote"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=sayantaniii&label=Profile+Views&color=8B2E28&style=flat-square" alt="Visitor Count"/>
+<img src="https://komarev.com/ghpvc/?username=sayantaniii&label=Profile+Views&color=8A6D2F&style=flat-square" alt="Visitor Count"/>
 
 </div>
