@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0891A0,100:C0C0C0&height=180&section=header&text=SAYANTANI%20CHATTERJEE&fontSize=38&fontColor=E5E5E5&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%C2%B7%20Creative%20Builder&descAlignY=60&descSize=18&descColor=8FE8E8" />
+<a href="https://instagram.com/tani_biryani"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/sayantani-chatterjee-43943a361/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=22&duration=3000&pause=1000&color=3DDCDC&background=00000000&center=true&vCenter=true&width=650&lines=Midnight+Developer+Lab;Dark+%C2%B7+Minimal+%C2%B7+Futuristic;Aqua+circuits%2C+silver+precision." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=30&duration=3200&pause=1200&color=3DDCDC&background=00000000&center=true&vCenter=true&width=650&lines=THE+MIDNIGHT+GRID;Frontend+Developer+%C2%B7+Creative+Builder" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=15&duration=4000&pause=2000&color=8FA3A3&background=00000000&center=true&vCenter=true&width=550&lines=Dark+%C2%B7+Minimal+%C2%B7+Futuristic;Aqua+circuits%2C+silver+precision." alt="Typing SVG" />
 
 </div>
 
@@ -29,18 +33,51 @@ open to      →  collaborations on thoughtful, minimal products
 
 <br>
 
-## ⁙ Stack
+## ⚡ The Midnight Grid — Web Arsenal
 
-<div align="center">
+<br>
 
-<img src="https://img.shields.io/badge/-TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=3DDCDC" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/-REACT-000000?style=for-the-badge&logo=react&logoColor=3DDCDC" alt="React"/>
-<img src="https://img.shields.io/badge/-NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=C0C0C0" alt="Next.js"/>
-<img src="https://img.shields.io/badge/-TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=3DDCDC" alt="Tailwind"/>
-<img src="https://img.shields.io/badge/-NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=C0C0C0" alt="Node"/>
-<img src="https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=git&logoColor=3DDCDC" alt="Git"/>
+**Languages**
 
-</div>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+
+<br><br>
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/>
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=C0C0C0" alt="Next.js"/>
+<img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=3DDCDC" alt="Tailwind"/>
+
+<br><br>
+
+**Backend & Database**
+
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=E5E5E5" alt="Express"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+
+<br><br>
+
+**Cloud, DevOps & Tools**
+
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=E5E5E5" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=E5E5E5" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Netlify"/>
+<img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman"/>
+
+<br><br>
+
+**Design**
+
+<img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma"/>
+<img src="https://img.shields.io/badge/Canva-000000?style=flat-square&logo=canva&logoColor=00C4CC" alt="Canva"/>
 
 <br>
 
@@ -56,21 +93,6 @@ open to      →  collaborations on thoughtful, minimal products
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayantaniii&theme=react-dark&hide_border=true&bg_color=00000000&color=3DDCDC&line=3DDCDC&point=C0C0C0" width="97%" alt="Activity Graph"/>
-
-</div>
-
-<br>
-
-## ⁙ Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sayantani-chatterjee-43943a361/">
-<img src="https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=3DDCDC" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/tani_biryani">
-<img src="https://img.shields.io/badge/-INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=C0C0C0" alt="Instagram"/>
-</a>
 
 </div>
 
