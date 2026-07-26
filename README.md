@@ -1,30 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=05191D&height=230&section=header&text=SAYANTANI%20MATRIX&fontSize=48&fontColor=D9A441&fontAlignY=42&desc=CODE%20%E2%80%A2%20DESIGN%20%E2%80%A2%20CREATE&descSize=15&descAlignY=62&descColor=C0D0CE" width="100%"/>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=05191D&height=170&section=header&text=SAYANTANI%20MATRIX&fontSize=42&fontColor=D9A441&fontAlignY=40&animation=fadeIn&stroke=F2D57E&strokeWidth=0.5&desc=CODE%20%E2%80%A2%20DESIGN%20%E2%80%A2%20CREATE&descSize=14&descAlignY=60&descColor=C0D0CE" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=19&duration=3000&pause=1200&color=C0D0CE&background=00000000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Frontend+Developer+in+Progress;UI%2FUX+%C3%97+Creative+Technology;Learning.+Building.+Creating." />
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/sayantani-chatterjee-43943a361/">
 <img src="https://img.shields.io/badge/LinkedIn-05191D?style=flat-square&logo=linkedin&logoColor=D9A441"/>
 </a>
-
 &nbsp;
-
 <a href="https://instagram.com/tani_biryani">
 <img src="https://img.shields.io/badge/Instagram-05191D?style=flat-square&logo=instagram&logoColor=D9A441"/>
 </a>
-
 &nbsp;
-
 <a href="mailto:sayantanichatterjeework@gmail.com">
 <img src="https://img.shields.io/badge/Email-05191D?style=flat-square&logo=gmail&logoColor=D9A441"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=24&duration=4500&pause=1500&color=8FB8B2&background=00000000&center=true&vCenter=true&width=650&lines=A+little+universe+of+things+I'm+building." />
 
