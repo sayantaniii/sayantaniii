@@ -2,43 +2,64 @@
 
 <a href="https://instagram.com/tani_biryani"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
 <a href="https://www.linkedin.com/in/sayantani-chatterjee-43943a361/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="mailto:sayantanichatterjeework@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=30&duration=3200&pause=1200&color=3DDCDC&background=00000000&center=true&vCenter=true&width=650&lines=THE+MIDNIGHT+GRID;Frontend+Developer+%C2%B7+Creative+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=32&duration=3200&pause=1200&color=3DDCDC&background=00000000&center=true&vCenter=true&width=650&lines=TANI+ONLINE" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=15&duration=4000&pause=2000&color=8FA3A3&background=00000000&center=true&vCenter=true&width=550&lines=Dark+%C2%B7+Minimal+%C2%B7+Futuristic;Aqua+circuits%2C+silver+precision." alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=15&duration=4000&pause=2000&color=8FE8E8&background=00000000&center=true&vCenter=true&width=600&lines=Frontend+Developer+%C2%B7+Creative+Builder;Dark+%C2%B7+Minimal+%C2%B7+Aqua;Powered+by+coffee+and+curiosity+%F0%9F%8E%A7%E2%98%95" alt="Typing SVG" />
 
 <br>
 
-## ⁙ About
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+<h2 align="center">⁙ About</h2>
+
+<div align="center">
 
 I build interfaces the way a jeweler sets stones — quiet setting, sharp precision, nothing wasted.
 
 Frontend developer who leans into restraint: clean architecture, deliberate motion, and a visual language that stays out of its own way. Every build starts with the same question — *what can be removed?*
 
-<br>
-
-## ⁙ Currently
-
-```
-building     →  interfaces that favor silence over noise
-studying     →  systems design, performance at scale
-refining     →  a personal design language across every project
-open to      →  collaborations on thoughtful, minimal products
-```
+</div>
 
 <br>
 
-## ⚡ The Midnight Grid — Web Arsenal
+<h2 align="center">⁙ Currently</h2>
+
+<div align="center">
+
+🧩 **Building** — interfaces that favor silence over noise
+📚 **Studying** — systems design, performance at scale
+🎨 **Refining** — a personal design language across every project
+🤝 **Open to** — collaborations on thoughtful, minimal products
+
+</div>
 
 <br>
+
+<h2 align="center">☕ Off Duty</h2>
+
+<div align="center">
+
+🎧 **Soundtrack of choice** — lo-fi, indie, and whatever fits the mood of the code
+☕ **Fuel** — coffee, always
+🌙 **Peak hours** — well past midnight
+🖤 **Aesthetic** — minimal, quiet, a little moody
+
+</div>
+
+<br>
+
+<h2 align="center">⚡ TANI ONLINE — Web Arsenal</h2>
+
+<div align="center">
 
 **Languages**
-
+<br>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
@@ -46,7 +67,7 @@ open to      →  collaborations on thoughtful, minimal products
 <br><br>
 
 **Frontend**
-
+<br>
 <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/>
 <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
@@ -56,7 +77,7 @@ open to      →  collaborations on thoughtful, minimal products
 <br><br>
 
 **Backend & Database**
-
+<br>
 <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=E5E5E5" alt="Express"/>
 <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
@@ -65,7 +86,7 @@ open to      →  collaborations on thoughtful, minimal products
 <br><br>
 
 **Cloud, DevOps & Tools**
-
+<br>
 <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=E5E5E5" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=E5E5E5" alt="Vercel"/>
@@ -75,24 +96,44 @@ open to      →  collaborations on thoughtful, minimal products
 <br><br>
 
 **Design**
-
+<br>
 <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma"/>
 <img src="https://img.shields.io/badge/Canva-000000?style=flat-square&logo=canva&logoColor=00C4CC" alt="Canva"/>
 
+</div>
+
 <br>
 
-## ⁙ Metrics
+<h2 align="center">🏆 Trophies</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sayantaniii&theme=nord&no-bg=true&no-frame=true&row=1&column=6" alt="Trophies"/>
+
+</div>
+
+<br>
+
+<h2 align="center">⁙ Metrics</h2>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sayantaniii&show_icons=true&theme=transparent&hide_border=true&title_color=3DDCDC&icon_color=3DDCDC&text_color=C0C0C0&hide_rank=true" width="48%" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayantaniii&theme=transparent&hide_border=true&stroke=0891A0&ring=3DDCDC&fire=3DDCDC&currStreakLabel=C0C0C0&sideLabels=C0C0C0&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=888888" width="48%" alt="Streak"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayantaniii&theme=react-dark&hide_border=true&bg_color=00000000&color=3DDCDC&line=3DDCDC&point=C0C0C0" width="97%" alt="Activity Graph"/>
+
 </div>
+
+<br>
+
+<h2 align="center">⁙ Connect</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayantaniii&theme=react-dark&hide_border=true&bg_color=00000000&color=3DDCDC&line=3DDCDC&point=C0C0C0" width="97%" alt="Activity Graph"/>
+<a href="https://www.linkedin.com/in/sayantani-chatterjee-43943a361/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=3DDCDC" alt="LinkedIn"/></a>
+<a href="https://instagram.com/tani_biryani"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=C0C0C0" alt="Instagram"/></a>
+<a href="mailto:sayantanichatterjeework@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=3DDCDC" alt="Email"/></a>
 
 </div>
 
