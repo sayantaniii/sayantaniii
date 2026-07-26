@@ -26,7 +26,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=19&duration=4500&pause=1500&color=8FB8B2&background=00000000&center=true&vCenter=true&width=650&lines=A+little+universe+of+things+I'm+building." />
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=24&duration=4500&pause=1500&color=8FB8B2&background=00000000&center=true&vCenter=true&width=650&lines=A+little+universe+of+things+I'm+building." />
 
 </div>
 
