@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=05191D&height=230&section=header&text=SAYANTANI%20MATRIX&fontSize=48&fontColor=D9A441&fontAlignY=42&desc=CODE%20%E2%80%A2%20DESIGN%20%E2%80%A2%20CREATE&descSize=15&descAlignY=62&descColor=C0D0CE" width="100%"/>
@@ -364,4 +363,3 @@ New things
 <img src="https://capsule-render.vercel.app/api?type=waving&color=05191D&height=120&section=footer" width="100%"/>
 
 </div>
-```
