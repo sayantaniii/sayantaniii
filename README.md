@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=05191D&height=170&section=header&text=SAYANTANI%20MATRIX&fontSize=42&fontColor=D9A441&fontAlignY=40&animation=fadeIn&stroke=F2D57E&strokeWidth=0.5&desc=CODE%20%E2%80%A2%20DESIGN%20%E2%80%A2%20CREATE&descSize=14&descAlignY=60&descColor=C0D0CE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=05191D&height=150&section=header" width="100%"/>
+
+<sub>✦ ⋆ ✦</sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=36&duration=3500&pause=1500&color=D9A441&background=00000000&center=true&vCenter=true&width=650&lines=SAYANTANI+MATRIX" />
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=14&duration=3000&pause=1200&color=C0D0CE&background=00000000&center=true&vCenter=true&width=500&lines=CODE+%E2%80%A2+DESIGN+%E2%80%A2+CREATE" />
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=19&duration=3000&pause=1200&color=C0D0CE&background=00000000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Frontend+Developer+in+Progress;UI%2FUX+%C3%97+Creative+Technology;Learning.+Building.+Creating." />
 
