@@ -45,35 +45,21 @@
 <table>
 <tr>
 
-<td width="62%" valign="top">
+<td width="100%" valign="top">
 
-### Hey, I'm Sayantani.
+### Hey, I'm Sayantani. 👋
 
-I'm a **Computer Science student** who enjoys being somewhere between **engineering and creativity**.
+I'm a **Computer Science student** who enjoys sitting somewhere between **engineering and creativity**.
 
-I like turning ideas into interfaces, interfaces into projects, and random ideas into things that actually work.
+I like turning ideas into interfaces, interfaces into projects, and random 2 a.m. thoughts into things that actually work.
 
-Right now, I'm building my foundation in **C++, JavaScript, React and DSA**, while exploring **UI/UX, game development and creative technology** on the side.
+Right now, I'm building my foundation in **C++, JavaScript, React and DSA**, while exploring **UI/UX, game development, and creative technology** on the side.
 
-I'm still learning — but I'm very much in the **build → break → understand → rebuild** phase.
+I'm still learning — but very much in the **build → break → understand → rebuild** phase, and enjoying every bit of it.
 
-</td>
+<br>
 
-<td width="38%" valign="top">
-
-### CURRENTLY
-
-**Learning**  
-JavaScript · React · DSA
-
-**Building**  
-Frontend projects · MERN
-
-**Exploring**  
-UI/UX · Game Development
-
-**Creating with**  
-Figma · Canva · Code
+🎓 2nd Year CS Student &nbsp;·&nbsp; 🏫 Adamas University, Kolkata &nbsp;·&nbsp; 🕹️ GameLiminals Club Member
 
 </td>
 
@@ -94,7 +80,72 @@ Figma · Canva · Code
 
 <div align="center">
 
-## 02 — WHAT I WORK WITH
+## 02 — WHAT I'M UP TO
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+🌱
+
+**LEARNING**
+<br>
+JavaScript
+React
+DSA
+
+</td>
+
+<td align="center" width="25%">
+
+🛠️
+
+**BUILDING**
+<br>
+Frontend projects
+MERN
+
+</td>
+
+<td align="center" width="25%">
+
+🔭
+
+**EXPLORING**
+<br>
+UI/UX
+Game Dev
+
+</td>
+
+<td align="center" width="25%">
+
+🎨
+
+**CREATING WITH**
+<br>
+Figma
+Canva
+Code
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+
+---
+
+<div align="center">
+
+## 03 — WHAT I WORK WITH
 
 <br>
 
@@ -122,7 +173,7 @@ Figma · Canva · Code
 
 <div align="center">
 
-## 03 — CURRENTLY EXPLORING
+## 04 — AREAS OF FOCUS
 
 </div>
 
@@ -190,7 +241,7 @@ Exploring the space where **design meets technology**.
 
 <div align="center">
 
-## 04 — MY PROJECTS
+## 05 — MY PROJECTS
 
 <br>
 
@@ -244,7 +295,7 @@ UI/UX
 
 <div align="center">
 
-## 05 — BEYOND THE SCREEN
+## 06 — BEYOND THE SCREEN
 
 <br>
 
@@ -312,7 +363,7 @@ New things
 
 <div align="center">
 
-## 06 — GITHUB ACTIVITY
+## 07 — GITHUB ACTIVITY
 
 <br>
 
@@ -336,7 +387,7 @@ New things
 
 <div align="center">
 
-## 07 — LET'S CONNECT
+## 08 — LET'S CONNECT
 
 <br>
 
