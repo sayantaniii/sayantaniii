@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hey, I'm Sayantani 👋
 
-<!--
-**sayantaniii/sayantaniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student | Frontend Developer | MERN Learner | Problem Solver
 
-Here are some ideas to get you started:
+I'm a B.Tech Computer Science student exploring web development,
+software engineering and problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 B.Tech CSE Student
+- 🌱 Currently learning JavaScript, React and MERN
+- 💻 Building web applications and hackathon projects
+- 🧠 Practicing DSA in C++
+- 🎨 Interested in UI/UX and creative technology
+- 🚀 Exploring open source and software development
+
+## 🛠️ Tech Stack
+
+### Languages
+C | C++ | JavaScript | HTML | CSS
+
+### Currently Learning
+React | Node.js | Express.js | MongoDB
+
+### Tools
+Git | GitHub | VS Code | Figma | Canva
+
+## 📌 Current Focus
+
+- Mastering JavaScript
+- Learning React
+- Building full-stack MERN projects
+- Practicing DSA
+- Building projects for my portfolio
+
+## 📂 Featured Projects
+
+Coming soon 👀
+
+## 🤝 Connect With Me
+
+- LinkedIn
+- Portfolio
+- GitHub
+
+---
+
+⭐ Always learning. Always building.
