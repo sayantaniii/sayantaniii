@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=05191D&height=150&section=header" width="100%"/>
-
-<sub>✦ ⋆ ✦</sub>
+<sub>˚ ༘ ⋆｡˚ ✦ ˚｡⋆༘ ˚</sub>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=36&duration=3500&pause=1500&color=D9A441&background=00000000&center=true&vCenter=true&width=650&lines=SAYANTANI+MATRIX" />
 
 <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=14&duration=3000&pause=1200&color=C0D0CE&background=00000000&center=true&vCenter=true&width=500&lines=CODE+%E2%80%A2+DESIGN+%E2%80%A2+CREATE" />
+
+<sub>✧ ˚ · . ✦ . · ˚ ✧</sub>
 
 <br>
 
@@ -360,8 +360,8 @@ New things
 
 <img src="https://komarev.com/ghpvc/?username=sayantaniii&label=PROFILE%20VIEWS&color=05191D&style=flat-square"/>
 
-<br><br>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=05191D&height=120&section=footer" width="100%"/>
+<sub>˚ ༘ ⋆｡˚ ✦ ˚｡⋆༘ ˚</sub>
 
 </div>
